@@ -6,21 +6,27 @@
 }
 #headerName {
     font-weight: 100;
+    text-transform: uppercase;
 }
 #headerJob {
     font-weight: 100;
+    text-transform: uppercase;
+}
+#headerImage {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
 }
 
-/*
+
 @media only screen and (max-width: 480px) {
-  #headerJob {
+  #headerName {
     text-align: center;
   }
-  #headerName {
-      text-align: right;
+  #headerJob {
+      text-align: center;
   }
   #headerImage {
-      text-align: left;
+      text-align: right;
   }
 }
-*/
