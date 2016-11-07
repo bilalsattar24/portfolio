@@ -1,3 +1,26 @@
-.right-align {
+.headerInfo {
     text-align: right;
 }
+#separator {
+  border-top: 4px solid #7d97ad;
+}
+#headerName {
+    font-weight: 100;
+}
+#headerJob {
+    font-weight: 100;
+}
+
+/*
+@media only screen and (max-width: 480px) {
+  #headerJob {
+    text-align: center;
+  }
+  #headerName {
+      text-align: right;
+  }
+  #headerImage {
+      text-align: left;
+  }
+}
+*/
