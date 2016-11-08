@@ -1,7 +1,6 @@
 img {
     max-width: 100%;
 }
-
 .headerInfo {
     text-align: right;
 }
@@ -23,12 +22,6 @@ img {
 .headerInfo {
     margin-top: 10px;
 }
-.footer {
-    text-align: center;
-}
-#mainImage {
-    max-width: 100%;
-}
 .featuredWork {
     color: #7d97ad;
 }
@@ -36,7 +29,7 @@ img {
     text-align: center;
 }
 
-
+/*For viewport widths 990px and lower*/
 @media only screen and (max-width: 991px) {
 img {
     padding-bottom: 10px;
@@ -51,17 +44,4 @@ img {
     display: block;
     margin-right: auto;
     margin-left: auto;
-}}
-
-
-@media only screen and (max-width: 480px) {
-#headerName {
-    text-align: center;
-}
-#headerJob {
-    text-align: center;
-}
-.headerImage {
-    margin-left: auto;
-    margin-right: auto;
 }}
