@@ -39,7 +39,9 @@ img {
 img {
     padding-bottom: 10px;
 }
-
+.featuredWork {
+    text-align: center;
+}
 .headerInfo {
     text-align: center;
 }
