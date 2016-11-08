@@ -33,28 +33,29 @@ img {
 
 
 @media only screen and (max-width: 991px) {
-  .headerInfo {
-    text-align: center;
-  }
+img {
+    padding-bottom: 10px;
+}
 
-  .headerImage {
+.headerInfo {
+    text-align: center;
+}
+
+.headerImage {
     display: block;
     margin-right: auto;
     margin-left: auto;
-  }
-}
+}}
 
 
 @media only screen and (max-width: 480px) {
-  #headerName {
+#headerName {
     text-align: center;
-  }
-  #headerJob {
-      text-align: center;
-  }
-  .headerImage {
-      margin-left: auto;
-      margin-right: auto;
-  }
-  
 }
+#headerJob {
+    text-align: center;
+}
+.headerImage {
+    margin-left: auto;
+    margin-right: auto;
+}}
