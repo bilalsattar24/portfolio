@@ -32,6 +32,9 @@ img {
 .featuredWork {
     color: #7d97ad;
 }
+.center {
+    text-align: center;
+}
 
 
 
@@ -45,7 +48,6 @@ img {
 .headerInfo {
     text-align: center;
 }
-
 .headerImage {
     display: block;
     margin-right: auto;
