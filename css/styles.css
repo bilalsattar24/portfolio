@@ -28,6 +28,10 @@ img {
 .center {
     text-align: center;
 }
+.footer {
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
 
 /*For viewport widths 990px and lower*/
 @media only screen and (max-width: 991px) {
