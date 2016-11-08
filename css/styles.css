@@ -2,7 +2,7 @@
     text-align: right;
 }
 #separator {
-  border-top: 4px solid #7d97ad;
+    border-top: 4px solid #7d97ad;
 }
 #headerName {
     font-weight: 100;
@@ -12,10 +12,30 @@
     font-weight: 100;
     text-transform: uppercase;
 }
-#headerImage {
+.headerImage {
+    margin-top: 1%;
+    display: block;
+}
+.headerInfo {
+    margin-top: 10px;
+}
+.footer {
+    text-align: center;
+}
+#mainImage {
+    max-height: 100px;
+}
+
+@media only screen and (max-width: 991px) {
+  .headerInfo {
+    text-align: center;
+  }
+
+  .headerImage {
     display: block;
     margin-right: auto;
     margin-left: auto;
+  }
 }
 
 
@@ -26,7 +46,8 @@
   #headerJob {
       text-align: center;
   }
-  #headerImage {
-      text-align: right;
+  .headerImage {
+      margin-left: auto;
+      margin-right: auto;
   }
 }
