@@ -4,7 +4,7 @@ img {
 .header_info {
     text-align: right;
 }
-#separator {
+.separator {
     border-top: 4px solid #7d97ad;
 }
 #header_name {
