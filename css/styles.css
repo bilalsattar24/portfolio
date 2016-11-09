@@ -1,28 +1,28 @@
 img {
     max-width: 100%;
 }
-.headerInfo {
+.header_info {
     text-align: right;
 }
 #separator {
     border-top: 4px solid #7d97ad;
 }
-#headerName {
+#header_name {
     font-weight: 100;
     text-transform: uppercase;
 }
-#headerJob {
+#header_job {
     font-weight: 100;
     text-transform: uppercase;
 }
-.headerImage {
+.header_image {
     margin-top: 1%;
     display: block;
 }
-.headerInfo {
+.header_info {
     margin-top: 10px;
 }
-.featuredWork {
+.featured_work {
     color: #7d97ad;
 }
 .center {
@@ -38,13 +38,13 @@ img {
 img {
     padding-bottom: 10px;
 }
-.featuredWork {
+.featured_work {
     text-align: center;
 }
-.headerInfo {
+.header_info {
     text-align: center;
 }
-.headerImage {
+.header_image {
     display: block;
     margin-right: auto;
     margin-left: auto;
