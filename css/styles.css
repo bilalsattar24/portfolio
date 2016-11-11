@@ -10,26 +10,26 @@ img {
     border-top: 4px solid #7d97ad;
 }
 
-#header_name {
+#header-name {
     font-weight: 100;
     text-transform: uppercase;
 }
 
-#header_job {
+#header-job {
     font-weight: 100;
     text-transform: uppercase;
 }
 
-.header_image {
+.header-image {
     margin-top: 1%;
     display: block;
 }
 
-.header_info {
+.header-info {
     margin-top: 10px;
 }
 
-.featured_work {
+.featured-work {
     color: #7d97ad;
 }
 
@@ -48,15 +48,15 @@ img {
     padding-bottom: 10px;
 }
 
-.featured_work {
+.featured-work {
     text-align: center;
 }
 
-.header_info {
+.header-info {
     text-align: center;
 }
 
-.header_image {
+.header-image {
     display: block;
     margin-right: auto;
     margin-left: auto;
