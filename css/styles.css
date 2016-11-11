@@ -1,33 +1,42 @@
 img {
     max-width: 100%;
 }
+
 .header_info {
     text-align: right;
 }
+
 .separator {
     border-top: 4px solid #7d97ad;
 }
+
 #header_name {
     font-weight: 100;
     text-transform: uppercase;
 }
+
 #header_job {
     font-weight: 100;
     text-transform: uppercase;
 }
+
 .header_image {
     margin-top: 1%;
     display: block;
 }
+
 .header_info {
     margin-top: 10px;
 }
+
 .featured_work {
     color: #7d97ad;
 }
+
 .center {
     text-align: center;
 }
+
 .footer {
     padding-top: 10px;
     padding-bottom: 15px;
@@ -38,12 +47,15 @@ img {
 img {
     padding-bottom: 10px;
 }
+
 .featured_work {
     text-align: center;
 }
+
 .header_info {
     text-align: center;
 }
+
 .header_image {
     display: block;
     margin-right: auto;
