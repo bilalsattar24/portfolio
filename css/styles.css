@@ -42,6 +42,10 @@ img {
     padding-bottom: 15px;
 }
 
+.paragraph {
+    color: black;
+}
+
 /*For viewport widths 990px and lower*/
 @media only screen and (max-width: 991px) {
 img {
