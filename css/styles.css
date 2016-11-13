@@ -31,6 +31,7 @@ img {
 
 .featured-work {
     color: #7d97ad;
+    text-transform: uppercase;
 }
 
 .center {
@@ -40,10 +41,6 @@ img {
 .footer {
     padding-top: 10px;
     padding-bottom: 15px;
-}
-
-.paragraph {
-    color: black;
 }
 
 /*For viewport widths 990px and lower*/
